@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: CookingAidImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5354416521644304208
+  m_GuidHigh: 17532228889392585863
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5059119780774767651
+      m_GuidHigh: 13229184542023479985
+    m_SerializedTextureGuid:
+      m_GuidLow: 7305990236107131714
+      m_GuidHigh: 17252137071246476025
+    m_Size: {x: 0.1, y: 0.07730303}
+    m_SpecifySize: 0
+    m_Name: FoodAssemblyStation
+    m_Texture: {fileID: 2800000, guid: 33a34b4217696564f982feb342e76bef, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4887461400293856487
+      m_GuidHigh: 7796767636230441917
+    m_SerializedTextureGuid:
+      m_GuidLow: 9913752045976472786
+      m_GuidHigh: 7189626601271599433
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: QRCodeHand
+    m_Texture: {fileID: 2800000, guid: e3baccd2b8f5899449217e344dafc663, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5673367359800345456
+      m_GuidHigh: 16466126649858301057
+    m_SerializedTextureGuid:
+      m_GuidLow: 8328471960328704778
+      m_GuidHigh: 12251546026011945592
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: reset2
+    m_Texture: {fileID: 2800000, guid: 2d31930aad1f7394786acafd323c06aa, type: 3}

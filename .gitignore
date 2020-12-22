@@ -1,0 +1,5 @@
+.DS_Store
+Library/
+Packages/
+Temp/
+Assembly-CSharp.csproj
