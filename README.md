@@ -11,5 +11,5 @@ Since the COVID pandemic, restaurants have shifted their menus to web page versi
 
 ## Links
 - [Project Report](G01_P3.md "Project Report")
-- [Video Demonstration](G01_P3.md "Video Demonstration")
+- [Video Demonstration](https://youtu.be/iupefsrORms)
 - [Unity Files](/Unity "Unity")
